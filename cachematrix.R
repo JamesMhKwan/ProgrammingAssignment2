@@ -5,7 +5,6 @@
 ## (4) function to return cached Inverse matrix
 ## (5) Returns list of all three functions (2,3,4)
 
-
 makeCacheMatrix <- function(x = matrix()) {
 InvrsdMtrx <- NULL  ## (1)
 GtMtrx <- function() {x} ## (2)
